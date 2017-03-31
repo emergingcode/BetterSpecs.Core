@@ -4,9 +4,13 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <NeutralLanguage />
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <Version>1.0.2</Version>
+    <PackageProjectUrl>https://github.com/emergingcode/BetterSpecs.Core</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/emergingcode/BetterSpecs.Core</PackageLicenseUrl>
+    <PackageIconUrl>http://s.gravatar.com/avatar/88a142dcea1005152f4ee65c895a5907?s=80</PackageIconUrl>
+    <RepositoryUrl>https://github.com/emergingcode/BetterSpecs.Core</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
