@@ -7,7 +7,7 @@ BetterSpecs is the simple way to bring the power of spec to your tests. Based in
 To install Betterspec in your MSTest project use this command:
 
 ```csharp
-PM> Install-Package BetterSpecs
+PM> Install-Package Betterspecs.Core
 ```
 
 ### :package: using betterspecs
